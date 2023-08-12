@@ -45,12 +45,12 @@
   
   <div align="center">
   
-  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeeptejD&theme=github_dark)
-  ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeeptejD&theme=github_dark)
+  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanket3212&theme=github_dark)
+  ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanket3212&theme=github_dark)
 
 <div>
 
-[![An image of @deeptejj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deeptejj)](https://holopin.io/@deeptejj)
+
   
 <!-- ## 🐦 Catch me on Twitter!
 [![](https://gtce.itsvg.in/api?username=AstroDeeptej)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
@@ -63,7 +63,7 @@
 <img align='center' src='https://user-images.githubusercontent.com/88930014/217005616-d1c9e13b-1441-410f-9ec9-3b046974801f.gif' width='60'> -->
  
   
-<img align='center' src='https://user-images.githubusercontent.com/88930014/217011820-202f12d0-3cc2-49d2-b703-d81b0059f759.png' width='30' href="https://paypal.me/DeeptejD/">
+<img align='center' src='https://user-images.githubusercontent.com/88930014/217011820-202f12d0-3cc2-49d2-b703-d81b0059f759.png' width='30' href="https://paypal.me/Sanket3212/">
 
 </div>
 <!---
