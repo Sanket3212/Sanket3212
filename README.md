@@ -50,6 +50,9 @@
 
 <div>
 
+  <img src='https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg'  width=80%>
+
+
 
   
 <!-- ## 🐦 Catch me on Twitter!
