@@ -34,7 +34,7 @@
 
 
 
-<div align="center">
+<div display="flex">
 
 <!-- ![cropped support](https://user-images.githubusercontent.com/88930014/217211030-c1cdb66c-702b-4e84-9d2d-715130651b8c.gif) -->
 
