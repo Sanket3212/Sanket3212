@@ -44,7 +44,7 @@
   
 <img src='https://user-images.githubusercontent.com/88930014/217213152-52bc7bad-caef-450f-b730-35176b342a93.gif' width='250'>
   
-  <div align="center">
+  <div display="flex" >
   
   ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanket3212&theme=github_dark)
   ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanket3212&theme=github_dark)
