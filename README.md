@@ -36,11 +36,6 @@
 
 <div display="flex">
 
-<!-- ![cropped support](https://user-images.githubusercontent.com/88930014/217211030-c1cdb66c-702b-4e84-9d2d-715130651b8c.gif) -->
-
-<!-- [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/DeeptejD) -->
-  
-<!-- ![GitHub Sponsors](https://img.shields.io/github/sponsors/DeeptejD?style=for-the-badge) -->
   
 <img src='https://user-images.githubusercontent.com/88930014/217213152-52bc7bad-caef-450f-b730-35176b342a93.gif' width='250'>
   
@@ -56,17 +51,7 @@
 
 ![](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg )
 
-  
-<!-- ## 🐦 Catch me on Twitter!
-[![](https://gtce.itsvg.in/api?username=AstroDeeptej)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
-<!--   
-  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/DeeptejD)
-  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DeeptejD) 
-
-<img align='center' src='https://user-images.githubusercontent.com/88930014/217005616-d1c9e13b-1441-410f-9ec9-3b046974801f.gif' width='60'> -->
- 
   
 <img align='center' src='https://user-images.githubusercontent.com/88930014/217011820-202f12d0-3cc2-49d2-b703-d81b0059f759.png' width='30' href="https://paypal.me/Sanket3212/">
 
